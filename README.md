@@ -1,5 +1,7 @@
 # MiniShop
 
+[![Build and scan](https://github.com/TechWorld707/minishop-app/actions/workflows/build-scan-push.yml/badge.svg)](https://github.com/TechWorld707/minishop-app/actions/workflows/build-scan-push.yml)
+
 A containerized ecommerce application deployed to a self-managed Kubernetes cluster on AWS EC2, with automated image builds, Trivy vulnerability scanning, Amazon ECR publishing, and Argo CD GitOps delivery.
 
 MiniShop demonstrates the complete path from application development to secure container publishing and Kubernetes deployment.
